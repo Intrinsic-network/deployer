@@ -1,7 +1,7 @@
 {
   "name": "@intrinsic-network/deployer",
-  "version": "1.0.4",
-  "description": "Deploy Uniswap V3 smart contracts",
+  "version": "1.0.0",
+  "description": "Deploy Intrinsic smart contracts",
   "bin": "dist/index.js",
   "publishConfig": {
     "access": "restricted"
@@ -23,18 +23,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Uniswap/deploy-v3.git"
-  },
-  "author": {
-    "email": "contact@uniswap.org",
-    "name": "Uniswap Labs",
-    "url": "https://uniswap.org"
+    "url": "git@github.com:Intrinsic-network/deployer.git"
   },
   "license": "GPL-3.0-or-later",
-  "bugs": {
-    "url": "https://github.com/Uniswap/deploy-v3/issues"
-  },
-  "homepage": "https://uniswap.org",
   "devDependencies": {
     "@ethersproject/abstract-signer": "^5.5.0",
     "@ethersproject/address": "^5.5.0",
