@@ -1,4 +1,4 @@
-import NonfungiblePositionManager from '@intrinsic-network/periphery/artifacts/contracts/NonfungiblePositionManager.sol/NonfungiblePositionManager.json'
+import NonfungiblePositionManager from '@intrinsic-finance/periphery/artifacts/contracts/NonfungiblePositionManager.sol/NonfungiblePositionManager.json'
 import createDeployContractStep from './meta/createDeployContractStep'
 
 export const DEPLOY_NONFUNGIBLE_POSITION_MANAGER = createDeployContractStep({

@@ -1,4 +1,4 @@
-import NonfungibleTokenPositionDescriptor from '@intrinsic-network/periphery/artifacts/contracts/NonfungibleTokenPositionDescriptor.sol/NonfungibleTokenPositionDescriptor.json'
+import NonfungibleTokenPositionDescriptor from '@intrinsic-finance/periphery/artifacts/contracts/NonfungibleTokenPositionDescriptor.sol/NonfungibleTokenPositionDescriptor.json'
 import createDeployContractStep from './meta/createDeployContractStep'
 
 export const DEPLOY_NFT_POSITION_DESCRIPTOR = createDeployContractStep({

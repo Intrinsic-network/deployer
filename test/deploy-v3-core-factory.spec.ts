@@ -2,7 +2,7 @@ import { BigNumber } from '@ethersproject/bignumber'
 import { Contract } from '@ethersproject/contracts'
 import { JsonRpcSigner, Web3Provider } from '@ethersproject/providers'
 
-import IntrinsicFactory from '@intrinsic-network/core/artifacts/contracts/IntrinsicFactory.sol/IntrinsicFactory.json'
+import IntrinsicFactory from '@intrinsic-finance/core/artifacts/contracts/IntrinsicFactory.sol/IntrinsicFactory.json'
 import { expect } from 'chai'
 import { DEPLOY_V3_CORE_FACTORY } from '../src/steps/deploy-v3-core-factory'
 import { asciiStringToBytes32 } from '../src/util/asciiStringToBytes32'
