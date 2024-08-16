@@ -1,4 +1,4 @@
-import IntrinsicStaker from '@intrinsic-network/staker/artifacts/contracts/IntrinsicStaker.sol/IntrinsicStaker.json'
+import IntrinsicStaker from '@intrinsic-finance/staker/artifacts/contracts/IntrinsicStaker.sol/IntrinsicStaker.json'
 import createDeployContractStep from './meta/createDeployContractStep'
 
 const ONE_MINUTE_SECONDS = 60

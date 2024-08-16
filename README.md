@@ -5,13 +5,13 @@ This package includes a CLI script for deploying the latest Intrinsic smart cont
 ## Usage
 
 This package vends a CLI for executing a deployment script that results in a full deployment of Intrinsic Protocol.
-Get the arguments for running the latest version of the script via `npx @intrinsic-network/deployer --help`.
+Get the arguments for running the latest version of the script via `npx @intrinsic-finance/deployer --help`.
 
 As of `v1.0.0` the arguments are:
 
 ```text
-> npx @intrinsic-network/deployer --help
-Usage: npx @intrinsic-network/deployer [options]
+> npx @intrinsic-finance/deployer --help
+Usage: npx @intrinsic-finance/deployer [options]
 
 Options:
   -pk, --private-key <string>               Private key used to deploy all contracts

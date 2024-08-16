@@ -1,4 +1,4 @@
-import IntrinsicFactory from '@intrinsic-network/core/artifacts/contracts/IntrinsicFactory.sol/IntrinsicFactory.json'
+import IntrinsicFactory from '@intrinsic-finance/core/artifacts/contracts/IntrinsicFactory.sol/IntrinsicFactory.json'
 import { Contract } from '@ethersproject/contracts'
 import { MigrationStep } from '../migrations'
 
